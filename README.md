@@ -7,3 +7,7 @@ Notları:
 4.100
 5.100
 6.85
+
+
+Bilgisayar ağları vize: 100
+Mikro vize:100
